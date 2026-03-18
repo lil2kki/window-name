@@ -4,12 +4,16 @@
 		"win": "2.2081",
 		"mac": "2.2081"
 	},
-	"version": "v3.0.1",
+	"version": "v3.0.2",
 	"id": "lil2kki.window-name",
 	"name": "Window Name",
 	"developer": "lil2kki",
 	"description": "Changes GD's window name.",
 	"early-load": true,
+	"tags": [
+		"customization",
+		"offline"
+	],
 	"links": {
 		"community": "https://discord.gg/6SxAbk3bTA",
 		"homepage": "https://t.me/lil2kki_ch",
